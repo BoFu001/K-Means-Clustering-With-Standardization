@@ -28,6 +28,6 @@ This notebook is part of my personal study and practice in unsupervised machine 
 ## 🖼️ Visualization
 
 <p align="center">
-  <img src="readme/elbow.png" width ="300" style="margin: 2px;"/>
-  <img src="readme/cluster.png" width ="300" style="margin: 2px;"/>
+  <img src="img/elbow.png" width ="300" style="margin: 2px;"/>
+  <img src="img/cluster.png" width ="300" style="margin: 2px;"/>
 </p>

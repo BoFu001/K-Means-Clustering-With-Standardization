@@ -27,7 +27,10 @@ This notebook is part of my personal study and practice in unsupervised machine 
 
 ## 🖼️ Visualization
 
-<p align="center">
-  <img src="img/elbow.png" width ="300" style="margin: 2px;"/>
-  <img src="img/cluster.png" width ="300" style="margin: 2px;"/>
-</p>
+<div style="display: flex; width: 100%;">
+
+  <img src="img/elbow.png" alt="Elbow Method" style="width: 50%; height: auto;" />
+  
+  <img src="img/cluster.png" alt="Cluster visualization" style="width: 50%; height: auto;" />
+
+</div>
